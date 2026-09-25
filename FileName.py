@@ -1,1 +1,2 @@
-print('Bye')
+print('SING WITH MEEE')
+print("Old McDonald had a farm, EIEIO\nAnd on his farm he had a cow, EIEIO\nWith a moo moo here and a moo moo there\nHere a moo there a moo\nEverywhere a moo moo\nOld McDonald had a farm, EIEIO\nOld MacDonald had a farm, EIEIO\nAnd on his farm he had a pig, EIEIO\nWith an oink oink here and an oink oink there\nHere an oink There an oink\nEverywhere an oink oink\nOld MacDonald had a farm, EIEIO")
